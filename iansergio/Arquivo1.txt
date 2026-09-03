@@ -1,2 +1,4 @@
 Linha de texto 1
 Linha de texto 2
+Mais uma linha de texto
+Mais outra linha de texto
