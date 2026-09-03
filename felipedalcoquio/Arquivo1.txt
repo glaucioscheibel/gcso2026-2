@@ -1,0 +1,5 @@
+Arquivo1
+Primeira linha adicionada no Arquivo1.
+Segunda linha adicionada no Arquivo1.
+Terceira linha adicionada no Arquivo1 (branch felipedalcoquio2).
+Quarta linha adicionada no Arquivo1 (branch felipedalcoquio2).
