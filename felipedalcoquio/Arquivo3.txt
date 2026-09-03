@@ -1,1 +1,3 @@
 Arquivo3
+Primeira linha adicionada no Arquivo3.
+Segunda linha adicionada no Arquivo3.
