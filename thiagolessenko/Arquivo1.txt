@@ -1,0 +1,5 @@
+Conteudo inicial do Arquivo1
+Linha extra 1
+Linha extra 2
+Linha extra 3
+Linha extra 4
