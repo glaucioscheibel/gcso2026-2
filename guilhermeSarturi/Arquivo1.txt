@@ -1,4 +1,0 @@
-texto linha 1
-texto linha 2
-Mais texto linha 1
-Mais texto linha 2
