@@ -1,2 +1,4 @@
 Arquivo de Texto 1
 Conteudo do arquivo 1
+Linha 3
+Linha 4
