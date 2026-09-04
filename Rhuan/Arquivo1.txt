@@ -1,3 +1,4 @@
 Primeiro passo 1
-Segundo passo 2
-Terceiro passo 3
+Segundo passo 1
+Terceiro passo 1
+Querto passo 1
