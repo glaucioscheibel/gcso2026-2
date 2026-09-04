@@ -1,0 +1,4 @@
+Linha 1 do Arquivo1
+Linha 2 do Arquivo1
+Linha 3 do Arquivo1
+Linha 4 do Arquivo1
