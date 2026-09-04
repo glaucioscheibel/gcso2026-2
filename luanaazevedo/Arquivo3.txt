@@ -1,2 +1,3 @@
 Primeira linha do Arquivo3
-Segunda linha do Arquivo3
+Segunda linha do Arquivo3Linha adicional 1
+Linha adicional 2
