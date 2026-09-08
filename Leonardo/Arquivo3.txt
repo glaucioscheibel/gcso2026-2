@@ -1,2 +1,4 @@
 Primeira linha adicionada ao Arquivo3
 Segunda linha adicionada ao Arquivo3
+Terceira linha adicionada ao Arquivo3
+Quarta linha adicionada ao Arquivo3
